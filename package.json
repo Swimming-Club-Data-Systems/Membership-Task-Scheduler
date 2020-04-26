@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Swimming-Club-Data-Systems/Membership-Task-Scheduler/issues"
   },
-  "homepage": "https://github.com/Swimming-Club-Data-Systems/Membership-Task-Scheduler#readme"
+  "homepage": "https://github.com/Swimming-Club-Data-Systems/Membership-Task-Scheduler#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "node-cron": "^2.0.3"
+  }
 }
