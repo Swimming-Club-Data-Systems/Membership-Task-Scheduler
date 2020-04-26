@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Swimming-Club-Data-Systems/Membership-Task-Scheduler#readme",
   "dependencies": {
     "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
     "node-cron": "^2.0.3"
   }
 }
