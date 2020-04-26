@@ -1,0 +1,19 @@
+{
+  "name": "scds-membership-task-service",
+  "version": "1.0.0",
+  "description": "Cron-like task scheduler for SCDS Membership software",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swimming-Club-Data-Systems/Membership-Task-Scheduler.git"
+  },
+  "author": "Chris Heppell <hello@myswimmingclub.uk>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Swimming-Club-Data-Systems/Membership-Task-Scheduler/issues"
+  },
+  "homepage": "https://github.com/Swimming-Club-Data-Systems/Membership-Task-Scheduler#readme"
+}
